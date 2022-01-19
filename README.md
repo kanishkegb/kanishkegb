@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 - 📫 You can reach me at kanishkegb@gwu.edu
 
 ### 🎥 A few cool videos of my work
+[<img src="images/landing_video.png" alt="Preliminary results for autonomous landing of a UAV on a moving ship" width="100"/>](http://www.youtube.com/watch?v=_WXyo45Oo1Y "Preliminary results for autonomous landing of a UAV on a moving ship"){:target="_blank"}
+
 [![Autonomous Ship Landing Video](images/landing_video.png)](http://www.youtube.com/watch?v=_WXyo45Oo1Y "Preliminary results for autonomous landing of a UAV on a moving ship"){:target="_blank"}
 [![Decoupled-Yaw Control Video](images/decoupled_yaw_video.png)](http://www.youtube.com/watch?v=w4UcEp5jb0E  "Geometric Controls of a Quadrotor UAV with the Decoupled Attitude Controls"){:target="_blank"}
 
