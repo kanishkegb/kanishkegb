@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - 📫 You can reach me at kanishkegb@gwu.edu
 
 ### 🎥 A few cool videos of my work
-[![Autonomous Ship Landing Video](images/landing_video.png | width=100)](http://www.youtube.com/watch?v=_WXyo45Oo1Y "Preliminary results for autonomous landing of a UAV on a moving ship"){:target="_blank"}
-[![Decoupled-Yaw Control Video](images/decoupled_yaw_video.png | width=100)](http://www.youtube.com/watch?v=w4UcEp5jb0E  "Geometric Controls of a Quadrotor UAV with the Decoupled Attitude Controls"){:target="_blank"}
+[![Autonomous Ship Landing Video](images/landing_video.png)](http://www.youtube.com/watch?v=_WXyo45Oo1Y "Preliminary results for autonomous landing of a UAV on a moving ship"){:target="_blank"}
+[![Decoupled-Yaw Control Video](images/decoupled_yaw_video.png)](http://www.youtube.com/watch?v=w4UcEp5jb0E  "Geometric Controls of a Quadrotor UAV with the Decoupled Attitude Controls"){:target="_blank"}
 
 [![Ship Air-Wake Measurement](images/airwake_video.png | width=100)](http://www.youtube.com/watch?v=9FUpj1PZaP8  "Ship Air-Wake Detection Using Unmanned Aerial Vehicles"){:target="_blank"}
 [![UAV Control with the Delayed GPS Measurements](images/dkf_comparison_video.png | width=100)](http://www.youtube.com/watch?v=PfuGb5yhlLQ   "UAV Control with the Delayed GPS Measurements"){:target="_blank"}
