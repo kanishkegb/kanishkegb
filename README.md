@@ -6,6 +6,29 @@
     - Ship air-wake measurements with airborne sensors
     - Shipboard UAV landing
 - 📫 You can reach me at kanishkegb@gwu.edu
+- Or at:
+
+  [<img align="left" src="./images/globe.svg" width="24px" alt="Website" width="300" style="padding-right:10px;" />](https://kanishkegb.github.io)
+[<img align="left" src="./images/youtube.svg" width="24px" alt="Youtube" width="300" style="padding-right:10px;" />](https://youtube.com/kanishkegb)
+[<img align="left" src="./images/twitter.svg" width="24px" alt="Twitter" width="300" style="padding-right:10px;" />](https://twitter.com/kanishkegb)
+[<img align="left" src="./images/linkedin.svg" width="24px" alt="LinkedIn" width="300" style="padding-right:10px;" />](https://linkedin.com/in/kanishkegb)
+[<img align="left" src="./images/instagram.svg" width="24px" alt="Instagram" width="300" style="padding-right:10px;" />](https://instagram.com/kanishkegb)
+
+<br> </br>
+
+
+### 🛠️ Languages and tools I am familiar with
+
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" style="padding-right:10px;" />
+<img align="left" alt="CMake" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/192px-Cmake.svg.png" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="padding-right:10px;" />
+<img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" style="padding-right:10px;" />
+<img align="left" alt="Matlab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/242px-Matlab_Logo.png" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" style="padding-right:10px;" />
+<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" style="padding-right:10px;" />
+<img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" style="padding-right:10px;" />
+
 
 <br> </br>
 
