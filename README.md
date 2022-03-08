@@ -6,7 +6,7 @@
     - Ship air-wake measurements with airborne sensors
     - Shipboard UAV landing
 - 📫 You can reach me at kanishkegb@gwu.edu
-- Or at:
+- 💬 Or at:
 
   [<img align="left" src="./images/globe.svg" width="24px" alt="Website" width="300" style="padding-right:10px;" />](https://kanishkegb.github.io)
 [<img align="left" src="./images/youtube.svg" width="24px" alt="Youtube" width="300" style="padding-right:10px;" />](https://youtube.com/kanishkegb)
@@ -27,8 +27,8 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" style="padding-right:10px;" />
 <img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" style="padding-right:10px;" />
+<img align="left" alt="Shell Scripts" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" style="padding-right:10px;" />
 <img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" style="padding-right:10px;" />
-
 
 <br> </br>
 
