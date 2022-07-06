@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-- 🎓 I am a current PhD candidate at [@fdcl-gwu](https://github.com/fdcl-gwu).
+- 💼 I work as a Robotics Engineer at @American-Robotics
+- 🎓 I earned my PhD at [@fdcl-gwu](https://github.com/fdcl-gwu).
 - 🔬 My research:
     - Developing geometric controllers and estimators    for UAVs
     - Ship air-wake measurements with airborne sensors
@@ -17,7 +17,7 @@
 <br> </br>
 
 
-### 🛠️ Languages and tools I am familiar with
+### 🛠️ I am familiar with
 
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" style="padding-right:10px;" />
 <img align="left" alt="CMake" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/192px-Cmake.svg.png" style="padding-right:10px;" />
