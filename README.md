@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 💼 I work as a Robotics Engineer at @American-Robotics
+- 💼 I work as a Robotics Engineer at [@American-Robotics](https://github.com/American-Robotics).
 - 🎓 I earned my PhD at [@fdcl-gwu](https://github.com/fdcl-gwu).
 - 🔬 My research:
     - Developing geometric controllers and estimators    for UAVs
