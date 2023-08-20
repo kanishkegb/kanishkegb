@@ -1,8 +1,9 @@
 ### Hi there 👋
-- 💼 I work as a Robotics Engineer at [@American-Robotics](https://github.com/American-Robotics).
+- 💼 I work as a Sensor Fusion and Navigation Engineer at [Kearfott](https://www.kearfott.com/)
+- 💼 My previous experiences include working as Robotics and Control Engineer at [@American-Robotics](https://github.com/American-Robotics).
 - 🎓 I earned my PhD at [@fdcl-gwu](https://github.com/fdcl-gwu).
 - 🔬 My research:
-    - Developing geometric controllers and estimators    for UAVs
+    - Developing geometric controllers and estimators for UAVs
     - Ship air-wake measurements with airborne sensors
     - Shipboard UAV landing
 - 📫 You can reach me at kanishkegb@gwu.edu
